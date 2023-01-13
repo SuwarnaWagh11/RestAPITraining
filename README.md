@@ -20,8 +20,13 @@ If it is not possible, follow the below steps:
 13. Click on Import button, click on Browse. select ApiTestingDB.sql file 
 14. Downlad api_testing folder from the framework which has some files(.vscode,category,config,object,product)
 15. Try to check, if you are able to get the json data via below link.
- http://localhost/api_testing/category/read.php
-http://localhost/api_testing/product/read.php
+
+http://localhost/api_testing/category/read.php
+
+http://localhost/api_testing/product/read.ph
+
 http://localhost/api_testing/product/create.php
+
 http://localhost/api_testing/product/update.php
+
 http://localhost/api_testing/product/delete.php
