@@ -71,7 +71,7 @@ public class ApiTest1 {
         String endPoint = "http://192.168.1.11/api_testing/product/delete.php";
         String body = """
                 {
-                "id": 1003
+                "id": 1004
                 }
                 """;
 
